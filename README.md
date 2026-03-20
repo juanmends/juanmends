@@ -18,13 +18,13 @@ Foco em análise exploratória, visualização e modelagem com Python e SQL.
 |---|---|---|
 | [🔍 Análise Uber]([link](https://github.com/juanmends/Analise-WhatsApp)) | Software que analisa conversas do WhatsApp a partir de um arquivo de texto, gerando relatórios e gráficos | Python, pandas, plotly, Flask |
 | [📈 Análise WhatsApp]([link](https://github.com/juanmends/Analise-Uber)) | Software que analisa dados de um usuário do Uber a partir de um arquivo csv, gerando relatórios e gráficos | Python, pandas, plotly, Flask |
-
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmends&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
+-->
 
 ---
 

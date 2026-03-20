@@ -23,9 +23,8 @@ Foco em análise exploratória, visualização e modelagem com Python e SQL.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmends&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmends&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmends&layout=compact&hide_border=true)
 
 ---
 

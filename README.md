@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Juan Mendes
 
-Estudante de ciência da computação (CEFET-RJ) apaixonado por transformar dados em decisões.  
-Foco em análise exploratória, visualização e modelagem com Python e SQL.
+Estudante de ciência da computação (CEFET-RJ) apaixonado por resolver problemas.  
+Foco em análise exploratória, desenvolvimento web, visualização de dados e modelagem.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-E38C00?style=flat&logo=postgresql&logoColor=white)
